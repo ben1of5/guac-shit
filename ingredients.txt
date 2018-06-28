@@ -3,3 +3,4 @@ onions
 salt
 tomatoes
 jalapenos
+cilantro
